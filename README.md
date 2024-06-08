@@ -1,8 +1,6 @@
 <h1 align="center">Hello Frined 🙋‍♂️, I'm Omar Abousaif</h1>
 <h3 align="center">Fullstack .Net Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omaremad763&label=Profile%20views&color=0e75b6&style=flat" alt="omaremad763" /> </p>
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/omar-abusaif/](https://www.linkedin.com/in/omar-abusaif/)
 
 - 💬 Ask me about **.Net Techs , Angular ,React**
