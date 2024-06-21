@@ -1,16 +1,17 @@
 <h1 align="center">Hello Frined 🙋‍♂️, I'm Omar Abousaif</h1>
 <h3 align="center">Fullstack .Net Developer</h3>
-
-- 📝 I regularly write articles on [Omar Tech_Blog](https://omartechb.blogspot.com/)
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDI1eXpudmx5NjAzdTMxZzB1bWsybTk4emZkbjFsdWJzbndiMGNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="300" height="240">
 
 - 💬 Ask me about **.Net Techs , Angular ,React ,Blazor**
+
+- 📝 I regularly write articles on [Omar Tech_Blog](https://omartechb.blogspot.com/)
 
 - 📫 How to reach me **oabuseif125@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u17IIlswHFdYXkSM6bAKlpOExzTcVqkd/view?usp=sharing)
 
 - ⚡ Fun fact **The Game Is On**
-<img align="right" src="https://tenor.com/view/wanna-code-code-headphones-baby-gif-25903730" alt="wanna code" width="300" height="240">
+
 
 
 <h3 align="left">Connect with me:</h3>
