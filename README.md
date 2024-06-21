@@ -1,13 +1,13 @@
 <h1 align="center">Hello Frined 🙋‍♂️, I'm Omar Abousaif</h1>
 <h3 align="center">Fullstack .Net Developer</h3>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/omar-abusaif/](https://www.linkedin.com/in/omar-abusaif/)
+- 📝 I regularly write articles on [Omar Tech_Blog](https://omartechb.blogspot.com/)
 
 - 💬 Ask me about **.Net Techs , Angular ,React**
 
 - 📫 How to reach me **oabuseif125@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1czWWVUyhtBnzC1BWWUUZ4d8S045C3YXx/view?usp=sharing](https://drive.google.com/file/d/1czWWVUyhtBnzC1BWWUUZ4d8S045C3YXx/view?usp=sharing)
+- 📄 Know about my experiences [MY Resume](https://drive.google.com/file/d/1czWWVUyhtBnzC1BWWUUZ4d8S045C3YXx/view?usp=sharing)
 
 - ⚡ Fun fact **The Game Is On**
 
