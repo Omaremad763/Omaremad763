@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **oabuseif125@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1czWWVUyhtBnzC1BWWUUZ4d8S045C3YXx/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u17IIlswHFdYXkSM6bAKlpOExzTcVqkd/view?usp=sharing)
 
 - ⚡ Fun fact **The Game Is On**
 
