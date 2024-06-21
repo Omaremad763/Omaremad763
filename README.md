@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u17IIlswHFdYXkSM6bAKlpOExzTcVqkd/view?usp=sharing)
 
 - ⚡ Fun fact **The Game Is On**
-<div class="tenor-gif-embed" data-postid="15479445" data-share-method="host" data-aspect-ratio="0.9875" data-width="100%"><a href="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445">Gimme Code Gimme GIF</a>from <a href="https://tenor.com/search/gimme+code-gifs">Gimme Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" src="https://tenor.com/view/wanna-code-code-headphones-baby-gif-25903730" alt="wanna code" width="300" height="240">
 
 
 <h3 align="left">Connect with me:</h3>
