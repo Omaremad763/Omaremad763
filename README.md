@@ -1,5 +1,5 @@
 <h1 align="center">Hello Friend 🙋‍♂️, I'm Omar Abousaif</h1>
-<h3 align="center">Fullstack .Net Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDI1eXpudmx5NjAzdTMxZzB1bWsybTk4emZkbjFsdWJzbndiMGNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="300" height="240">
 
 - 💬 Ask me about **.Net Techs , Angular**
