@@ -4,10 +4,6 @@
 
 I enjoy building real-world software to understand **how systems evolve**, not just how individual technologies work.
 
-Instead of creating dozens of tutorial projects, I prefer continuously improving one long-term application where I can experiment with architecture, security, DevOps, and scalable backend practices.
-
-Currently working on **Invento**, a modern Inventory Management System that serves as both a practical business application and my software engineering playground.
-
 ---
 
 ## 🚀 Current Focus
@@ -49,7 +45,7 @@ https://github.com/Omaremad763/Invento
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,redis,docker,git,github,linux,azure"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,redis,docker,git,github,kafka,rabbitmq,postman"/>
 
 </p>
 
