@@ -1,53 +1,52 @@
-# Hi there 👋 I'm Omar Abousaif
+# Hi there 👋 I'm Omar Abusaif
 
-### Software Engineer focused on ASP.NET Core, Angular & Modern Backend Development
+### Software Engineer | Full-Stack Dev 
 
-I enjoy building real-world software to understand **how systems evolve**, not just how individual technologies work.
+I focus on building robust, scalable, and production-grade systems. I enjoy understanding **how software evolves** end-to-end, writing clean code, and applying modern architectural practices.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus & Engineering Standards
 
-* Building Full stack  applications with ASP.NET Core And Angular 
-* Designing maintainable softwares using Clean Architecture
-* Learning DevOps & Cloud technologies
-* Exploring software architecture and distributed systems
-* Secure Coding
-* Performance Optimization
+* **Architecture:** Designing highly maintainable software using **Clean Architecture**, CQRS, and Domain-Driven Design concepts.
+* **Full-Stack Ecosystem:** Developing enterprise-ready applications with **.NET 9/8** and **Angular (Standalone Components, Signals)**.
+* **DevOps & Cloud:** Integrating CI/CD pipelines, containerization (Docker), caching strategies, and robust monitoring setups.
+* **Quality & Performance:** Secure Coding principles, Performance Optimization, and Test-Driven mindset.
 
 ---
 
 ## ⭐ Featured Project
 
-### Invento — Modern Inventory Management System
+### 📦 Invento — Modern Inventory Management System
+A production-grade, full-stack inventory management system designed to implement and test advanced software engineering patterns end-to-end.
 
-A full-stack inventory management system built to explore modern software engineering concepts while solving real inventory management problems.
+#### 🛠️ Key Architectural & Technical Highlights:
+* **Backend Core:** Built with Clean Architecture layers, implementing **CQRS pattern** with MediatR for strict separation of concerns.
+* **Security & Auth:** JWT Authentication coupled with GitHub OAuth and SMTP Email Confirmation.
+* **Performance & Infrastructure:** High-performance caching layers via **Redis** & In-Memory cache, all containerized smoothly using **Docker & Docker Compose**.
+* **Observability & DevOps:** Centralized logging with **Serilog + Seq**, metrics/monitoring via **Prometheus + Grafana**, automated through a robust **GitHub Actions CI/CD pipeline**.
+* **Specialized Branches:** Dedicated environments for experimenting with Microservices transitions and Secure Coding practices.
 
-#### Highlights
-
-* 🏗️ Clean Architecture
-* ⚡ CQRS with MediatR
-* 🔐 JWT Authentication + GitHub OAuth
-* 📧 Email Confirmation (SMTP)
-* 🐳 Docker & Docker Compose
-* ⚡ Redis & In-Memory Caching
-* 📊 Serilog + Seq
-* 📈 Prometheus + Grafana
-* 🚀 GitHub Actions CI/CD
-* 🧪 Dedicated learning branches for Microservices & Secure Coding
-
-➡️ Repository
-
-https://github.com/Omaremad763/Invento
+👉 **[Explore the Invento Repository Here 🚀](https://github.com/Omaremad763/Invento)**
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
+### 💾 Backend & Core Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,redis,kafka,rabbitmq" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,redis,docker,git,github,kafka,rabbitmq,postman,jest"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+### 🎨 Frontend & UI Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,jest" />
+</p>
+
+### ⚙️ DevOps, Tools & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48"/>
 </p>
 
 ---
@@ -55,37 +54,36 @@ https://github.com/Omaremad763/Invento
 ## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Omaremad763&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaremad763&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Omaremad763&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaremad763&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omaremad763&theme=github-dark&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omaremad763&theme=github-dark&hide_border=true"/>
-
+#### 📊 Activity Graph
+<p align="center">
+  <a href="https://github.com/Omaremad763">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omaremad763&theme=github-dark" alt="Omar's GitHub Activity Graph" />
+  </a>
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-* 📧 **Email:** [oabuseif125@gmail.com](mailto:oabuseif125@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/omar-abusaif/
-* 📄 **Resume:** https://drive.google.com/file/d/1u17IIlswHFdYXkSM6bAKlpOExzTcVqkd/view
+<p align="left">
+  <a href="mailto:oabuseif125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omar-abusaif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1u17IIlswHFdYXkSM6bAKlpOExzTcVqkd/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 💭 Philosophy
 
-> *I don't build projects to collect technologies.*
->
-> *I build projects to understand how software evolves.*
+> *"I don't build projects to collect technologies. I build systems to master how software evolves and scales."*
 
 ---
-[![Omar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omaremad763&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-⭐ Thanks for visiting my profile!
-
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories.</p>
