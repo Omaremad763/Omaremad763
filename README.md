@@ -8,11 +8,12 @@ I enjoy building real-world software to understand **how systems evolve**, not j
 
 ## 🚀 Current Focus
 
-* Building scalable backend applications with ASP.NET Core
+* Building scalable backend applications with ASP.NET Core And Angular 
 * Designing maintainable software using Clean Architecture
-* Improving Invento
 * Learning DevOps & Cloud technologies
 * Exploring software architecture and distributed systems
+* Secure Coding
+* Performance Optimization
 
 ---
 
@@ -66,17 +67,6 @@ https://github.com/Omaremad763/Invento
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omaremad763&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-## 🌱 I Focus on
-
-* Software Architecture
-* Distributed Systems
-* Cloud Technologies
-* Secure Coding
-* DevOps
-* Performance Optimization
 
 ---
 
