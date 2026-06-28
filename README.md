@@ -45,8 +45,8 @@ https://github.com/Omaremad763/Invento
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,redis,docker,git,github,kafka,rabbitmq,postman"/>
-
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,redis,docker,git,github,kafka,rabbitmq,postman,jest"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
