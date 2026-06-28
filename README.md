@@ -8,8 +8,8 @@ I enjoy building real-world software to understand **how systems evolve**, not j
 
 ## 🚀 Current Focus
 
-* Building scalable backend applications with ASP.NET Core And Angular 
-* Designing maintainable software using Clean Architecture
+* Building Full stack  applications with ASP.NET Core And Angular 
+* Designing maintainable softwares using Clean Architecture
 * Learning DevOps & Cloud technologies
 * Exploring software architecture and distributed systems
 * Secure Coding
