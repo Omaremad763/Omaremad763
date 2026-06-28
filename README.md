@@ -1,23 +1,105 @@
-<h1 align="center">Hello Friend 🙋‍♂️, I'm Omar Abousaif</h1>
-<h3 align="center">Fullstack Developer</h3>
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDI1eXpudmx5NjAzdTMxZzB1bWsybTk4emZkbjFsdWJzbndiMGNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="300" height="240">
+# Hi there 👋 I'm Omar Abousaif
 
-- 💬 Ask me about **.Net Techs , Angular**
+### Software Engineer focused on ASP.NET Core, Angular & Modern Backend Development
 
-- 📫 How to reach me **oabuseif125@gmail.com**
+I enjoy building real-world software to understand **how systems evolve**, not just how individual technologies work.
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u17IIlswHFdYXkSM6bAKlpOExzTcVqkd/view?usp=sharing)
+Instead of creating dozens of tutorial projects, I prefer continuously improving one long-term application where I can experiment with architecture, security, DevOps, and scalable backend practices.
 
-- ⚡ Fun fact **The Game Is On**
+Currently working on **Invento**, a modern Inventory Management System that serves as both a practical business application and my software engineering playground.
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/omar-abusaif/" target="(Omar Abousaif
-)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-abusaif/" height="30" width="40" /></a>
+## 🚀 Current Focus
+
+* Building scalable backend applications with ASP.NET Core
+* Designing maintainable software using Clean Architecture
+* Improving Invento
+* Learning DevOps & Cloud technologies
+* Exploring software architecture and distributed systems
+
+---
+
+## ⭐ Featured Project
+
+### Invento — Modern Inventory Management System
+
+A full-stack inventory management system built to explore modern software engineering concepts while solving real inventory management problems.
+
+#### Highlights
+
+* 🏗️ Clean Architecture
+* ⚡ CQRS with MediatR
+* 🔐 JWT Authentication + GitHub OAuth
+* 📧 Email Confirmation (SMTP)
+* 🐳 Docker & Docker Compose
+* ⚡ Redis & In-Memory Caching
+* 📊 Serilog + Seq
+* 📈 Prometheus + Grafana
+* 🚀 GitHub Actions CI/CD
+* 🧪 Dedicated learning branches for Microservices & Secure Coding
+
+➡️ Repository
+
+https://github.com/Omaremad763/Invento
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,redis,docker,git,github,linux,azure"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Omaremad763&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaremad763&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omaremad763&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 I Focus on
+
+* Software Architecture
+* Distributed Systems
+* Cloud Technologies
+* Secure Coding
+* DevOps
+* Performance Optimization
+
+---
+
+## 📫 Connect with Me
+
+* 📧 **Email:** [oabuseif125@gmail.com](mailto:oabuseif125@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/omar-abusaif/
+* 📄 **Resume:** https://drive.google.com/file/d/1u17IIlswHFdYXkSM6bAKlpOExzTcVqkd/view
+
+---
+
+## 💭 Philosophy
+
+> *I don't build projects to collect technologies.*
+>
+> *I build projects to understand how software evolves.*
+
+---
+[![Omar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omaremad763&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+⭐ Thanks for visiting my profile!
+
