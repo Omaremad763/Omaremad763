@@ -66,6 +66,11 @@ A production-grade, full-stack inventory management system designed to implement
 > I enjoy studying software engineering books to understand not only *how* to build systems, but *why* successful architectures evolve the way they do.
 ---
 
+📊 My 3D Contribution Graph:
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
 ## 📫 Connect with Me
 
 <p align="left">
