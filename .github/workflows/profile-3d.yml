@@ -1,27 +1,33 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate Food Snake
 
 on:
   schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch: # دي بتسمح لنا نشغله بإيدنا فوراً
+    - cron: "0 0 * * *" # يشتغل كل يوم بالليل
+  workflow_dispatch: # عشان نشغله بإيدنا حالاً
 
 permissions:
-  contents: write # مهمة جداً عشان الـ Push يشتغل
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      # بيعمل generate للعبة الثعبان من الـ contributions بتاعتك
+      - name: generate-github-contribution-grid-snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # بيرفع الصور على فرع منفصل اسمه output عشان الـ README يقرأها بثبات
+      - name: push github-contribution-grid-snake to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated" || exit 0
-          git push
