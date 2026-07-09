@@ -1,9 +1,12 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # بيشتغل كل يوم بالليل
+  schedule:
     - cron: "0 18 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # دي بتسمح لنا نشغله بإيدنا فوراً
+
+permissions:
+  contents: write # مهمة جداً عشان الـ Push يشتغل
 
 jobs:
   build:
