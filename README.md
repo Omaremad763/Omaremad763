@@ -49,6 +49,19 @@ A production-grade, full-stack inventory management system designed to implement
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48"/>
 </p>
 
+## 📚 Engineering Reading Journey
+
+### 🚧 Currently Reading
+*   ![Reading](https://img.shields.io/badge/Status-Reading-blue?style=for-the-badge&logo=bookstack) **Building Microservices** — *Sam Newman* 
+*   ![Next](https://img.shields.io/badge/Status-Up_Next-gray?style=flat-square) **Designing Data-Intensive Applications** — *Martin Kleppmann*
+
+---
+
+### ✅ Completed Books
+*   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Learning Domain-Driven Design** — *Vlad Khononov*
+*   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Understanding Distributed Systems** — *Roberto Vitillo*
+
+> I enjoy studying software engineering books to understand not only *how* to build systems, but *why* successful architectures evolve the way they do.
 ---
 
 ## 📈 GitHub Statistics
