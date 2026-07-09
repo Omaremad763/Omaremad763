@@ -66,9 +66,12 @@ A production-grade, full-stack inventory management system designed to implement
 > I enjoy studying software engineering books to understand not only *how* to build systems, but *why* successful architectures evolve the way they do.
 ---
 
-📊 My 3D Contribution Graph:
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+### 🐍 The Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omaremad763/Omaremad763/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omaremad763/Omaremad763/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Omaremad763/Omaremad763/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ## 📫 Connect with Me
