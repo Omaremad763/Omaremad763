@@ -49,6 +49,8 @@ A production-grade, full-stack inventory management system designed to implement
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48"/>
 </p>
 
+---
+
 ## 📚 Engineering Reading Journey
 
 ### 🚧 Currently Reading
