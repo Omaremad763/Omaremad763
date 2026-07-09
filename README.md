@@ -66,17 +66,6 @@ A production-grade, full-stack inventory management system designed to implement
 > I enjoy studying software engineering books to understand not only *how* to build systems, but *why* successful architectures evolve the way they do.
 ---
 
-## 📈 GitHub Statistics
-
-#### 📊 Activity Graph
-<p align="center">
-  <a href="https://github.com/Omaremad763">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omaremad763&theme=github-dark" alt="Omar's GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
