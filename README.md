@@ -54,14 +54,14 @@ A production-grade, full-stack inventory management system designed to implement
 ## 📚 Engineering Reading Journey
 
 ### 🚧 Currently Reading
-*   ![Reading](https://img.shields.io/badge/Status-Up_Reading-yellow?style=flat-square) **Designing Data-Intensive Applications** — *Martin Kleppmann*
-
+*   ![Next](https://img.shields.io/badge/Status-Next-yellow?style=flat-square) **The Pragmatic Programmer** — * Andy Hunt and Dave Thomas
 ---
 
 ### ✅ Completed Books
 *   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Learning Domain-Driven Design** — *Vlad Khononov*
 *   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Understanding Distributed Systems** — *Roberto Vitillo*
 *   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Building Microservices** — *Sam Newman* 
+*   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Designing Data-Intensive Applications** — *Martin Kleppmann*
 
 > I enjoy studying software engineering books to understand not only *how* to build systems, but *why* successful architectures evolve the way they do.
 ---
