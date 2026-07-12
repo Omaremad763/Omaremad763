@@ -53,7 +53,7 @@ A production-grade, full-stack inventory management system designed to implement
 
 ## 📚 Engineering Reading Journey
 
-### 🚧 Currently Reading
+### 🚧Reading Queue
 *   ![Next](https://img.shields.io/badge/Status-Next-yellow?style=flat-square) **The Pragmatic Programmer** — * Andy Hunt and Dave Thomas
 ---
 
