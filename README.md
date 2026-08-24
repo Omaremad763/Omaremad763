@@ -43,9 +43,9 @@ A production-grade, full-stack inventory management system designed to implement
   <img src="https://skillicons.dev/icons?i=angular,ts,jest" />
 </p>
 
-### ⚙️ DevOps, Tools & Infrastructure
+### ⚙️ Cloud, Tools & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,kubernetes,openshift,terraform" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48"/>
 </p>
 
@@ -54,7 +54,7 @@ A production-grade, full-stack inventory management system designed to implement
 ## 📚 Engineering Reading Journey
 
 ### 🚧Reading Queue
-*   ![Next](https://img.shields.io/badge/Status-Next-yellow?style=flat-square) **The Pragmatic Programmer** — * Andy Hunt and Dave Thomas
+*   ![Next](https://img.shields.io/badge/Status-Next-yellow?style=flat-square) **fundamentals of software architecture an engineering approach** — * Andy Hunt and Dave Thomas"
 ---
 
 ### ✅ Completed Books
@@ -62,6 +62,8 @@ A production-grade, full-stack inventory management system designed to implement
 *   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Understanding Distributed Systems** — *Roberto Vitillo*
 *   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Building Microservices** — *Sam Newman* 
 *   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square&logo=checkmarx&logoColor=white) **Designing Data-Intensive Applications** — *Martin Kleppmann*
+*   ![Read](https://img.shields.io/badge/Status-Done-success?style=flat-square) **The Pragmatic Programmer** — *Andy Hunt and Dave Thomas*
+
 
 > I enjoy studying software engineering books to understand not only *how* to build systems, but *why* successful architectures evolve the way they do.
 ---
