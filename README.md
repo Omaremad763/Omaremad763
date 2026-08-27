@@ -54,7 +54,7 @@ A production-grade, full-stack inventory management system designed to implement
 ## 📚 Engineering Reading Journey
 
 ### 🚧Reading Queue
-*   ![Next](https://img.shields.io/badge/Status-Next-yellow?style=flat-square) **fundamentals of software architecture an engineering approach** — * Andy Hunt and Dave Thomas"
+*   ![Next](https://img.shields.io/badge/Status-Next-yellow?style=flat-square) **Cloud Computing Concepts Technology** — * Thomas Erl "
 ---
 
 ### ✅ Completed Books
