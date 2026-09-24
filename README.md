@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Omar Abusaif
+# Hi there 👋 I'm Omar Emad Abusaif
 
 ### Software Engineer | Full-Stack Dev 
 
